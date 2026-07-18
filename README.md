@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Software566/leetcode/tree/master/0015-3sum) |
 | [0118-pascals-triangle](https://github.com/Software566/leetcode/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/Software566/leetcode/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/Software566/leetcode/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/Software566/leetcode/tree/master/0229-majority-element-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/Software566/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 ## Two Pointers
@@ -51,4 +52,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Software566/leetcode/tree/master/0070-climbing-stairs) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Software566/leetcode/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Software566/leetcode/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Software566/leetcode/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Software566/leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
