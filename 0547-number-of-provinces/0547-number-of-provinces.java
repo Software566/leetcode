@@ -7,7 +7,7 @@ class Solution {
 
        for(int i=0;i<n;i++){
         if(!visited[i]){
-            dfs(isConnected,visited,i);
+            bfs(isConnected,visited,i);
             count++;
         }
        }
@@ -15,12 +15,19 @@ class Solution {
 
     }
 
-    public void dfs(int[][] isConnected, boolean[] visited,int city){
+    public void bfs(int[][] isConnected, boolean[] visited,int city){
+        Queue<Integer> queue =  new LinkedList<>();
+        queue.offer(city);
         visited[city] = true;
-        for(int j=0;j < isConnected.length;j++){
-            if(isConnected[city][j] == 1 && !visited[j]){
-                dfs(isConnected,visited,j);
+        while(!queue.isEmpty()){
+            int curr = queue.poll();
+            for(int j=0;j < isConnected.length;j++){
+                if(isConnected[curr][j]  == 1 && !visited[j]){
+                    visited[j] = true;
+                    queue.offer(j);
+                }
             }
         }
+        
     }
 }
