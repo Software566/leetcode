@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Software566/leetcode/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/Software566/leetcode/tree/master/0229-majority-element-ii) |
 | [0542-01-matrix](https://github.com/Software566/leetcode/tree/master/0542-01-matrix) |
+| [0704-binary-search](https://github.com/Software566/leetcode/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/Software566/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1020-number-of-enclaves](https://github.com/Software566/leetcode/tree/master/1020-number-of-enclaves) |
 ## Two Pointers
@@ -154,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Software566/leetcode/tree/master/0207-course-schedule) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Software566/leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
