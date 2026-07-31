@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Software566/leetcode/tree/master/0035-search-insert-position) |
 | [0118-pascals-triangle](https://github.com/Software566/leetcode/tree/master/0118-pascals-triangle) |
 | [0130-surrounded-regions](https://github.com/Software566/leetcode/tree/master/0130-surrounded-regions) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Software566/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Software566/leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Software566/leetcode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Software566/leetcode/tree/master/0200-number-of-islands) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Software566/leetcode/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Software566/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Software566/leetcode/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/Software566/leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
