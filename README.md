@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Software566/leetcode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Software566/leetcode/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/Software566/leetcode/tree/master/0229-majority-element-ii) |
+| [0410-split-array-largest-sum](https://github.com/Software566/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/Software566/leetcode/tree/master/0542-01-matrix) |
 | [0704-binary-search](https://github.com/Software566/leetcode/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/Software566/leetcode/tree/master/0746-min-cost-climbing-stairs) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Software566/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/Software566/leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Software566/leetcode/tree/master/0118-pascals-triangle) |
+| [0410-split-array-largest-sum](https://github.com/Software566/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/Software566/leetcode/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/Software566/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 ## Math
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Software566/leetcode/tree/master/0410-split-array-largest-sum) |
 | [1903-largest-odd-number-in-string](https://github.com/Software566/leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
@@ -174,9 +177,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Software566/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Software566/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Software566/leetcode/tree/master/0162-find-peak-element) |
+| [0410-split-array-largest-sum](https://github.com/Software566/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/Software566/leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Software566/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Software566/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Software566/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Software566/leetcode/tree/master/1539-kth-missing-positive-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/Software566/leetcode/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
