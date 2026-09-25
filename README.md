@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Software566/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Software566/leetcode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Software566/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Software566/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Software566/leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Software566/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/Software566/leetcode/tree/master/0410-split-array-largest-sum) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Software566/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Software566/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Software566/leetcode/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/Software566/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Software566/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Software566/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Software566/leetcode/tree/master/0455-assign-cookies) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Software566/leetcode/tree/master/0127-word-ladder) |
 | [0169-majority-element](https://github.com/Software566/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Software566/leetcode/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/Software566/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Software566/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Software566/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Software566/leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Software566/leetcode/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/Software566/leetcode/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/Software566/leetcode/tree/master/0268-missing-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Software566/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/Software566/leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Memoization
@@ -235,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Software566/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Software566/leetcode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Software566/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Software566/leetcode/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/Software566/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/Software566/leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Software566/leetcode/tree/master/0875-koko-eating-bananas) |
@@ -320,4 +325,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Software566/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Software566/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Software566/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Software566/leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
