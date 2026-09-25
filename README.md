@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Software566/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Software566/leetcode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Software566/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0283-move-zeroes](https://github.com/Software566/leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Software566/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/Software566/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Software566/leetcode/tree/master/0455-assign-cookies) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Software566/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Software566/leetcode/tree/master/0015-3sum) |
 | [0151-reverse-words-in-a-string](https://github.com/Software566/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/Software566/leetcode/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Software566/leetcode/tree/master/0455-assign-cookies) |
 ## Sorting
 |  |
