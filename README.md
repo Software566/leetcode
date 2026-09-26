@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Software566/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Software566/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Software566/leetcode/tree/master/1539-kth-missing-positive-number) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Software566/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Software566/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Software566/leetcode/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Software566/leetcode/tree/master/0455-assign-cookies) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Software566/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
 | ------- |
@@ -329,4 +331,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Software566/leetcode/tree/master/0268-missing-number) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Software566/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
