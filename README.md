@@ -340,4 +340,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Software566/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Software566/leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
