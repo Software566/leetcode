@@ -455,4 +455,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Software566/leetcode/tree/master/0069-sqrtx) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Software566/leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
