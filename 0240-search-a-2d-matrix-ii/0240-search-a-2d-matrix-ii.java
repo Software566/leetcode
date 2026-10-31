@@ -4,21 +4,26 @@ class Solution {
         int m = matrix.length;
         int n = matrix[0].length;
 
-        int row = 0;
-        int col = n - 1;
+        for (int i = 0; i < m; i++) {
 
-        while (row < m && col >= 0) {
+            int left = 0;
+            int right = n - 1;
 
-            if (matrix[row][col] == target) {
-                return true;
-            }
+            while (left <= right) {
 
-            else if (matrix[row][col] > target) {
-                col--;
-            }
+                int mid = left + (right - left) / 2;
 
-            else {
-                row++;
+                if (matrix[i][mid] == target) {
+                    return true;
+                }
+
+                else if (matrix[i][mid] > target) {
+                    right = mid - 1;
+                }
+
+                else {
+                    left = mid + 1;
+                }
             }
         }
 
